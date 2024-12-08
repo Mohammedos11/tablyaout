@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tablyaout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shats">shats</string>
+    <string name="calls">calls</string>
+    <string name="Status">Status</string>
+</resources>
