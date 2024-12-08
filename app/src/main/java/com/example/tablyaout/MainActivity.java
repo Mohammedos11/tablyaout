@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         }).attach();
 
 
-        viewPager2.setCurrentItem(1, false);
+        viewPager2.setCurrentItem(0, false);
     }
 
     private void init() {
